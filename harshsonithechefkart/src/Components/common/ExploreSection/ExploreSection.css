@@ -1,0 +1,9 @@
+.explore-section{
+    margin-top: 16px;
+}
+
+.explore-grid{
+    display: flex;
+    justify-content: left;
+    padding: 0px 20px;
+}
